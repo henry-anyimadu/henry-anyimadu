@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
 <h3 align="center">Software Engineer, Researcher, and Creator</h3>
 
-- 👨‍💻 All of my projects are available at [henryany.com](henryany.com)
+- 👨‍💻 Personal site: [henryany.com](henryany.com)
 
 - Connect with me on [LinkedIn](linkedin.com/in/anyimadu)
 <p align="left">
