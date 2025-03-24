@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Henry</h1>
-<h3 align="center">Software Engineer, Researcher, and Creator</h3>
+<h1 align="left">Hi 👋, I'm Henry</h1>
+<h3 align="left">Software Engineer, Researcher, and Creator</h3>
 
 - 👨‍💻 Personal site: [henryany.com](henryany.com)
 
